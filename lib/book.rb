@@ -2,7 +2,7 @@ class Book
   def initialize(title)
     @title = title
   end
-  
+
   def title
     @title
   end
@@ -25,7 +25,7 @@ class Book
   def genre=(genre)
     @genre = genre
   end
- 
+
   def genre
     @genre
   end
